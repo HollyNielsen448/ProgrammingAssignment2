@@ -4,8 +4,6 @@
 #computing the inverse of a matrix,which is a costly computation, these functions create 
 #a special object which stores the matrix and caches its inverse
 
-
-
 ## Write a short comment describing this function:
 #The function makeCacheMatrix creates a special object (list containing a 
 #matrix and functions) that can cache its inverse.
